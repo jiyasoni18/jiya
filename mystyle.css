@@ -1,0 +1,58 @@
+img {
+        width: 50px;
+        height: 50px;
+    }
+    .div{
+            border:2px solid black;
+            height:400px;
+            width:500px;
+            margin: 2px 2px;
+            padding:auto;
+            clear:both;
+            
+        }
+        .navbar{
+            background-color: rgb(17, 236, 244);
+            margin: 30px;
+            border: 2px solid red;
+        }
+    .box{
+        background-color:goldenrod;
+        border: 1px solid black;
+        margin: 0px;
+        padding:7px 40px 43px 44px;
+        width: 620px;
+        height:370px;
+        float:left;
+        clear:both;
+    }
+    .box1{
+        background-color:rgb(51, 51, 246);
+        border:1px solid black;
+        margin: 0px;
+        padding:20px;
+        width: 620px;
+        height:370px;
+        display: inline-block;
+        clear:both;
+    }
+    .box2{
+        background-color:rgb(51, 51, 246);
+        border: 1px solid black;
+        margin: 0px;
+        padding:20px;
+        width: 620px;
+        height:370px;
+        float: left;
+        clear:both; 
+    }
+    .box3{
+        background-color:goldenrod;
+        border: 1px solid black;
+        margin: 0px;
+        padding:7px 40px 43px 44px;
+        width: 620px;
+        height:370px;
+        display: inline-block;
+        clear:both;
+    }
